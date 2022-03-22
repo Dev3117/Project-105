@@ -1,0 +1,21 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects{
+    color: orangered;
+}
+
+body{
+    background-color: powderblue;
+}
+
+#camera{
+    border: 2px dashed rebeccapurple;
+    height: 300px;
+    width: 350px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: salmon;
+}
